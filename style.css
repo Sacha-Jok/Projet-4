@@ -49,10 +49,12 @@ a:hover {
 
 .nav-logo{
     height: 40px;
+    width: 217px;
 }
 
 .logo{
     width: 100px;
+    height: 100px;
 }
 .bloc .container {
     padding-left: 0;
